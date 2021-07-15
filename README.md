@@ -99,11 +99,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 12-2: _Formulários no React_
 - [x] 12-3: _[Projeto - Movie Cards Library Stateful]()_
 
-##### Bloco 13: Ciclo de Vida de Componentes e React Router :hourglass_flowing_sand:
+##### Bloco 13: Ciclo de Vida de Componentes e React Router :white_check_mark:
 
 - [x] 13-1: _Ciclo de vida de componentes_
-- [ ] 13-2: _React Router_
-- [ ] 13-3: _[Projeto - Movie Cards Library CRUD]()_
+- [x] 13-2: _React Router_
+- [x] 13-3: _[Projeto - Movie Cards Library CRUD]()_
 
 ##### Bloco 14: Metodologias Ágeis :hourglass_flowing_sand:
 
