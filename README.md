@@ -1,6 +1,6 @@
 # Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Wander Diniz Veloso](LinkDoSeuLinkedinAqui)_ enquanto estuda na [Trybe](https://www.betrybe.com/), Turma 12 :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Wander Diniz Veloso](https://www.linkedin.com/in/wander-diniz-veloso/)_ enquanto estuda na [Trybe](https://www.betrybe.com/), Turma 12 :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
@@ -95,7 +95,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 12: Componentes com Estado, Eventos e Formulários com React :hourglass_flowing_sand:
 
-- [ ] 12-1: _Componentes com estado e eventos_
+- [x] 12-1: _Componentes com estado e eventos_
 - [ ] 12-2: _Formulários no React_
 - [ ] 12-3: _[Projeto - Movie Cards Library Stateful]()_
 
