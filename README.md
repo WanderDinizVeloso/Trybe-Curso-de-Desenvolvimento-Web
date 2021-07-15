@@ -105,10 +105,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 13-2: _React Router_
 - [x] 13-3: _[Projeto - Movie Cards Library CRUD]()_
 
-##### Bloco 14: Metodologias Ágeis :hourglass_flowing_sand:
+##### Bloco 14: Metodologias Ágeis :white_check_mark:
 
-- [ ] 14-1: _Metodologias Ágeis_
-- [ ] 14-2: _[Projeto - Frontend Online Store]()_
+- [x] 14-1: _Metodologias Ágeis_
+- [x] 14-2: _[Projeto - Frontend Online Store]()_
 
 ##### Bloco 15: Testes automatizados com React Testing Library :hourglass_flowing_sand:
 
