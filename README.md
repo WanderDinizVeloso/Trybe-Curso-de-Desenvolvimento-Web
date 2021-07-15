@@ -101,7 +101,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 13: Ciclo de Vida de Componentes e React Router :hourglass_flowing_sand:
 
-- [ ] 13-1: _Ciclo de vida de componentes_
+- [x] 13-1: _Ciclo de vida de componentes_
 - [ ] 13-2: _React Router_
 - [ ] 13-3: _[Projeto - Movie Cards Library CRUD]()_
 
