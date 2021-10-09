@@ -1,6 +1,6 @@
 # Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Wander Diniz Veloso](https://www.linkedin.com/in/wander-diniz-veloso/)_ enquanto estuda na [Trybe](https://www.betrybe.com/), Turma 12 :rocket:
+Este repositório contém minha evolução no programa de formação, enquanto estudo Desenvolvimento Web na [Trybe](https://www.betrybe.com/), Turma 12 :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
 
@@ -41,11 +41,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 5-2: _JavaScript - Trabalhando com elementos_
 - [x] 5-3: _JavaScript - Eventos_
 - [x] 5-4: _JavaScript - Web Storage_
-- [ ] 5-5: _[Projeto - Meme Generator]()_
+- [x] 5-5: _[Projeto - Meme Generator]()_
 - [x] 5-6: _[Projeto - Arte com Pixels]()_
 - [x] 5-7: _[Projeto - Lista de tarefas]()_
-- [ ] 5-7: _[Projeto - Adivinhe a Cor]()_
-- [ ] 5-7: _[Projeto - Carta Misteriosa]()_
+- [x] 5-7: _[Projeto - Adivinhe a Cor]()_
+- [x] 5-7: _[Projeto - Carta Misteriosa]()_
 
 ##### Bloco 6: HTML & CSS avançado :white_check_mark:
 
@@ -85,7 +85,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 10-3: _Jest - Simulando comportamentos_
 - [x] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+## Desenvolvimento Front-end :white_check_mark:
 
 ##### Bloco 11: Introdução - React :white_check_mark:
 
@@ -110,72 +110,72 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 14-1: _Metodologias Ágeis_
 - [x] 14-2: _[Projeto - Frontend Online Store]()_
 
-##### Bloco 15: Testes automatizados com React Testing Library :hourglass_flowing_sand:
+##### Bloco 15: Testes automatizados com React Testing Library :white_check_mark:
 
-- [ ] 15-1: _RTL - Primeiros passos_
-- [ ] 15-2: _RTL - Mocks e inputs_
-- [ ] 15-3: _RTL - Testando React Router_
-- [ ] 15-4: _[Projeto - Testes em React]()_
+- [x] 15-1: _RTL - Primeiros passos_
+- [x] 15-2: _RTL - Mocks e inputs_
+- [x] 15-3: _RTL - Testando React Router_
+- [x] 15-4: _[Projeto - Testes em React]()_
 
-##### Bloco 16: Gerenciamento de estado com Redux :hourglass_flowing_sand:
+##### Bloco 16: Gerenciamento de estado com Redux :white_check_mark:
 
-- [ ] 16-1: _Introdução ao Redux - O estado global da aplicação_
-- [ ] 16-2: _Usando o Redux no React_
-- [ ] 16-3: _Usando o Redux no React - Prática_
-- [ ] 16-4: _Usando o Redux no React - Actions Assíncronas_
-- [ ] 16-5: _Testes em React-Redux_
-- [ ] 16-6: _[Projeto - Trybe Wallet]()_
+- [x] 16-1: _Introdução ao Redux - O estado global da aplicação_
+- [x] 16-2: _Usando o Redux no React_
+- [x] 16-3: _Usando o Redux no React - Prática_
+- [x] 16-4: _Usando o Redux no React - Actions Assíncronas_
+- [x] 16-5: _Testes em React-Redux_
+- [x] 16-6: _[Projeto - Trybe Wallet]()_
 
-##### Bloco 17: Projeto - Jogo de Trivia :hourglass_flowing_sand:
+##### Bloco 17: Projeto - Jogo de Trivia :white_check_mark:
 
-- [ ] 17-1: _[Projeto - Jogo de Trivia]()_
+- [x] 17-1: _[Projeto - Jogo de Trivia]()_
 
-##### Bloco 18: Context API e React Hooks :hourglass_flowing_sand:
+##### Bloco 18: Context API e React Hooks :white_check_mark:
 
-- [ ] 18-1: _Context API do React_
-- [ ] 18-2: _React Hooks - useState e useContext_
-- [ ] 18-3: _React Hooks - useEffect e Hooks customizados_
-- [ ] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [x] 18-1: _Context API do React_
+- [x] 18-2: _React Hooks - useState e useContext_
+- [x] 18-3: _React Hooks - useEffect e Hooks customizados_
+- [x] 18-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
 
-##### Bloco 19: Projeto - App de Receitas :hourglass_flowing_sand:
+##### Bloco 19: Projeto - App de Receitas :white_check_mark:
 
-- [ ] 19-1: _[Projeto - App de Receitas]()_
+- [x] 19-1: _[Projeto - App de Receitas]()_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-##### Bloco 20: Introdução à SQL :hourglass_flowing_sand:
+##### Bloco 20: Introdução à SQL :white_check_mark:
 
-- [ ] 20-1: _Banco de dados SQL_
-- [ ] 20-2: _Encontrando dados em um banco de dados_
-- [ ] 20-3: _Filtrando dados de forma específica_
-- [ ] 20-4: _Manipulando tabelas_
-- [ ] 20-5: _[Projeto - All For One]()_
+- [x] 20-1: _Banco de dados SQL_
+- [x] 20-2: _Encontrando dados em um banco de dados_
+- [x] 20-3: _Filtrando dados de forma específica_
+- [x] 20-4: _Manipulando tabelas_
+- [x] 20-5: _[Projeto - All For One]()_
 
-##### Bloco 21: Funões SQL, Joins e Subqueries :hourglass_flowing_sand:
+##### Bloco 21: Funões SQL, Joins e Subqueries :white_check_mark:
 
-- [ ] 21-1: _Funções mais usadas no SQL_
-- [ ] 21-2: _Descomplicando JOINs, UNIONs e Subqueries_
-- [ ] 21-3: _Stored Routines & Stored Functions_
-- [ ] 21-4: _[Projeto - Vocabulary Booster]()_
+- [x] 21-1: _Funções mais usadas no SQL_
+- [x] 21-2: _Descomplicando JOINs, UNIONs e Subqueries_
+- [x] 21-3: _Stored Routines & Stored Functions_
+- [x] 21-4: _[Projeto - Vocabulary Booster]()_
 
-##### Bloco 22: Normalização e Modelagem de Banco de Dados :hourglass_flowing_sand:
+##### Bloco 22: Normalização e Modelagem de Banco de Dados :white_check_mark:
 
-- [ ] 22-1: _Transformando ideias em um modelo de banco de dados_
-- [ ] 22-2: _Normalização, Formas Normais e Dumps_
-- [ ] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
-- [ ] 22-3: _[Projeto - One For All]()_
+- [x] 22-1: _Transformando ideias em um modelo de banco de dados_
+- [x] 22-2: _Normalização, Formas Normais e Dumps_
+- [x] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
+- [x] 22-3: _[Projeto - One For All]()_
 
-##### Bloco 23: Introdução ao MongoDB :hourglass_flowing_sand:
+##### Bloco 23: Introdução ao MongoDB :white_check_mark:
 
-- [ ] 23-1: _MongoDB - Introdução_
-- [ ] 23-2: _Filter Operators_
-- [ ] 23-3: _[Projeto - Data Flights]()_
+- [x] 23-1: _MongoDB - Introdução_
+- [x] 23-2: _Filter Operators_
+- [x] 23-3: _[Projeto - Data Flights]()_
 
 ##### Bloco 24: MongoDB: Updates Simples e Complexos :hourglass_flowing_sand:
 
-- [ ] 24-1: _Updates Simples_
-- [ ] 24-2: _Updates Complexos - Arrays - Parte 1_
-- [ ] 24-3: _Updates Complexos - Arrays - Parte 2_
+- [x] 24-1: _Updates Simples_
+- [x] 24-2: _Updates Complexos - Arrays - Parte 1_
+- [x] 24-3: _Updates Complexos - Arrays - Parte 2_
 - [ ] 24-4: _[Projeto - Commerce]()_
 
 ##### Bloco 25: MongoDB: Aggregation Framework :hourglass_flowing_sand:
