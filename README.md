@@ -173,46 +173,46 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 23-2: _Filter Operators_
 - [x] 23-3: _Projeto - Data Flights_
 
-##### Bloco 24: MongoDB: Updates Simples e Complexos :hourglass_flowing_sand:
+##### Bloco 24: MongoDB: Updates Simples e Complexos :white_check_mark:
 
 - [x] 24-1: _Updates Simples_
 - [x] 24-2: _Updates Complexos - Arrays - Parte 1_
 - [x] 24-3: _Updates Complexos - Arrays - Parte 2_
-- [ ] 24-4: _Projeto - Commerce_
+- [x] 24-4: _Projeto - Commerce_
 
-##### Bloco 25: MongoDB: Aggregation Framework :hourglass_flowing_sand:
+##### Bloco 25: MongoDB: Aggregation Framework :white_check_mark:
 
-- [ ] 25-1: _Aggregation Framework - Part 1_
-- [ ] 25-2: _Aggregation Framework - Part 2_
-- [ ] 25-3: _Projeto - Aggregations_
+- [x] 25-1: _Aggregation Framework - Part 1_
+- [x] 25-2: _Aggregation Framework - Part 2_
+- [x] 25-3: _Projeto - Aggregations_
 
-##### Bloco 26: Introdução ao desenvolvimento Web com NodeJS :hourglass_flowing_sand:
+##### Bloco 26: Introdução ao desenvolvimento Web com NodeJS :white_check_mark:
 
-- [ ] 26-1: _NodeJS - Introdução_
-- [ ] 26-2: _NodeJS - Fluxo Assíncrono_
-- [ ] 26-3: _Testes com NodeJS_
-- [ ] 26-4: _Express: HTTP com NodeJS_
-- [ ] 26-5: _Praticando Express_
-- [ ] 26-6: _Projeto - Talker Manager_
+- [x] 26-1: _NodeJS - Introdução_
+- [x] 26-2: _NodeJS - Fluxo Assíncrono_
+- [x] 26-3: _Testes com NodeJS_
+- [x] 26-4: _Express: HTTP com NodeJS_
+- [x] 26-5: _Praticando Express_
+- [x] 26-6: _Projeto - Talker Manager_
 
-##### Bloco 27: NodeJS: Camada de Serviço e Arquitetura Rest e Restful :hourglass_flowing_sand:
+##### Bloco 27: NodeJS: Camada de Serviço e Arquitetura Rest e Restful :white_check_mark:
 
-- [ ] 27-1: _Arquitetura de Software - Camada de Model_
-- [ ] 27-2: _Arquitetura de Software - Camada de Controller e Service_
-- [ ] 27-3: _Arquitetura de Web - Rest e RESTful_
-- [ ] 27-4: _Projeto - Store Manager_
+- [x] 27-1: _Arquitetura de Software - Camada de Model_
+- [x] 27-2: _Arquitetura de Software - Camada de Controller e Service_
+- [x] 27-3: _Arquitetura de Web - Rest e RESTful_
+- [x] 27-4: _Projeto - Store Manager_
 
-##### Bloco 28: Autenticação e Upload de Arquivos :hourglass_flowing_sand:
+##### Bloco 28: Autenticação e Upload de Arquivos :white_check_mark:
 
-- [ ] 28-1: _NodeJS - JWT - (JSON Web Token)_
-- [ ] 28-2: _NodeJS - Upload de arquivos com 'multer'_
-- [ ] 28-3: _Projeto - Cookmaster_
+- [x] 28-1: _NodeJS - JWT - (JSON Web Token)_
+- [x] 28-2: _NodeJS - Upload de arquivos com 'multer'_
+- [x] 28-3: _Projeto - Cookmaster_
 
-##### Bloco 29: Deployment :hourglass_flowing_sand:
+##### Bloco 29: Deployment :hourglass_flowing_sand :white_check_mark:
 
-- [ ] 29-1: _Infraestrutura - Deploy com Heroku_
-- [ ] 29-2: _Deploy - Gerenciadores de Processsos_
-- [ ] 29-3: _Projeto - Stranger Things_
+- [x] 29-1: _Infraestrutura - Deploy com Heroku_
+- [x] 29-2: _Deploy - Gerenciadores de Processsos_
+- [x] 29-3: _Projeto - Stranger Things_
 
 ##### Bloco 30: Projeto Trybeer :hourglass_flowing_sand:
 
