@@ -214,39 +214,35 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 29-2: _Deploy - Gerenciadores de Processsos_
 - [x] 29-3: _Projeto - Stranger Things_
 
-##### Bloco 30: Projeto Trybeer :hourglass_flowing_sand:
+##### Bloco 30: Arquitetura: SOLID e ORM :white_check_mark:
 
-- [ ] 30-1: _Projeto - Trybeer_
+- [x] 31-1: _Arquitetura - Princípios SOLID_
+- [x] 31-2: _ORM - Interface da aplicação com o banco de dados_
+- [x] 31-3: _Associations_
+- [x] 31-4: _Boas práticas na escrita de testes_
+- [x] 31-5: _Projeto - API de Blogs_
 
-##### Bloco 31: Arquitetura: SOLID e ORM :hourglass_flowing_sand:
-
-- [ ] 31-1: _Arquitetura - Princípios SOLID_
-- [ ] 31-2: _ORM - Interface da aplicação com o banco de dados_
-- [ ] 31-3: _Associations_
-- [ ] 31-4: _Boas práticas na escrita de testes_
-- [ ] 31-5: _Projeto - API de Blogs_
-
-##### Bloco 32: Sockets :hourglass_flowing_sand:
+##### Bloco 31: Sockets :hourglass_flowing_sand:
 
 - [ ] 32-1: _Arquiterua de Software - Camada de View_
 - [ ] 32-2: _Sockets - TCP/UDP & NET_
 - [ ] 32-3: _Sockets - Socket.io_
 - [ ] 32-4: _Projeto - Webchat_
 
-##### Bloco 33: Projeto Trybeer II :hourglass_flowing_sand:
+##### Bloco 32: Projeto Trybeer II :hourglass_flowing_sand:
 
 - [ ] 33-1: _Projeto - Trybeer V2_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
-##### Bloco 34: Arquitetura e Redes :hourglass_flowing_sand:
+##### Bloco 33: Arquitetura e Redes :hourglass_flowing_sand:
 
 - [ ] 34-1: _Arquitetura de Computadores_
 - [ ] 34-2: _Arquitetura de redes_
 - [ ] 34-3: _Redes de computadores, ferramentas e segurança_
 - [ ] 34-4: _Projeto - Explorando os protocolos_
 
-##### Bloco 35: Introdução à Python e Raspagem de Dados da Web :hourglass_flowing_sand:
+##### Bloco 34: Introdução à Python e Raspagem de Dados da Web :hourglass_flowing_sand:
 
 - [ ] 35-1: _Aprendendo Python_
 - [ ] 35-2: _Entrada e Saída de dados_
@@ -254,14 +250,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 35-3: _testes_
 - [ ] 35-5: _Projeto - Tech news_
 
-##### Bloco 36: Programação Orientada a Objetos e Padrões de Projeto :hourglass_flowing_sand:
+##### Bloco 35: Programação Orientada a Objetos e Padrões de Projeto :hourglass_flowing_sand:
 
 - [ ] 36-1: _Introdução à programação Orientada a Objetos_
 - [ ] 36-2: _Herança, Composição e Interfaces_
 - [ ] 36-3: _Padrões de projeto_
 - [ ] 36-4: _Projeto - Relatório de Estoque_
 
-##### Bloco 37: Algoritmos e Estrutura de Dados :hourglass_flowing_sand:
+##### Bloco 36: Algoritmos e Estrutura de Dados :hourglass_flowing_sand:
 
 - [ ] 37-1: _Estrutura de Dados I - Arrays_
 - [ ] 37-2: _Estrutura de Dados I - Complexidade de Algoritmos_
@@ -269,13 +265,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 37-4: _Algoritmos de ordenação e busca_
 - [ ] 37-5: _Projeto - Algoritmos_
 
-##### Bloco 38: Estrutura de Dados: Hash e Set :hourglass_flowing_sand:
+##### Bloco 37: Estrutura de Dados: Hash e Set :hourglass_flowing_sand:
 
 - [ ] 38-1: _Estrutura de Dados II - Hash maps & Dict_
 - [ ] 38-2: _Estrutura de Dados II - Set_
 - [ ] 38-3: _Projeto - Restaurant Orders_
 
-##### Bloco 39: Estrutura de Dados: Pilhas, Filas e Listas :hourglass_flowing_sand:
+##### Bloco 38: Estrutura de Dados: Pilhas, Filas e Listas :hourglass_flowing_sand:
 
 - [ ] 39-1: _Estrutura de Dados III - Pilhas_
 - [ ] 39-2: _Estrutura de Dados III - Deque_
