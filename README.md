@@ -222,48 +222,48 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 31-4: _Boas práticas na escrita de testes_
 - [x] 31-5: _Projeto - API de Blogs_
 
-##### Bloco 31: Sockets :hourglass_flowing_sand:
+##### Bloco 31: Sockets :white_check_mark:
 
-- [ ] 32-1: _Arquiterua de Software - Camada de View_
-- [ ] 32-2: _Sockets - TCP/UDP & NET_
-- [ ] 32-3: _Sockets - Socket.io_
-- [ ] 32-4: _Projeto - Webchat_
+- [x] 32-1: _Arquiterua de Software - Camada de View_
+- [x] 32-2: _Sockets - TCP/UDP & NET_
+- [x] 32-3: _Sockets - Socket.io_
+- [x] 32-4: _Projeto - Webchat_
 
-##### Bloco 32: Projeto Trybeer II :hourglass_flowing_sand:
+##### Bloco 32: Projeto Trybeer II :white_check_mark:
 
-- [ ] 33-1: _Projeto - Trybeer V2_
+- [x] 33-1: _Projeto - Trybeer V2_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
-##### Bloco 33: Arquitetura e Redes :hourglass_flowing_sand:
+##### Bloco 33: Arquitetura e Redes :white_check_mark:
 
-- [ ] 34-1: _Arquitetura de Computadores_
-- [ ] 34-2: _Arquitetura de redes_
-- [ ] 34-3: _Redes de computadores, ferramentas e segurança_
-- [ ] 34-4: _Projeto - Explorando os protocolos_
+- [x] 34-1: _Arquitetura de Computadores_
+- [x] 34-2: _Arquitetura de redes_
+- [x] 34-3: _Redes de computadores, ferramentas e segurança_
+- [x] 34-4: _Projeto - Explorando os protocolos_
 
-##### Bloco 34: Introdução à Python e Raspagem de Dados da Web :hourglass_flowing_sand:
+##### Bloco 34: Introdução à Python e Raspagem de Dados da Web :white_check_mark:
 
-- [ ] 35-1: _Aprendendo Python_
-- [ ] 35-2: _Entrada e Saída de dados_
-- [ ] 35-3: _Raspagem de Dados_
-- [ ] 35-3: _testes_
-- [ ] 35-5: _Projeto - Tech news_
+- [x] 35-1: _Aprendendo Python_
+- [x] 35-2: _Entrada e Saída de dados_
+- [x] 35-3: _Raspagem de Dados_
+- [x] 35-3: _testes_
+- [x] 35-5: _Projeto - Tech news_
 
-##### Bloco 35: Programação Orientada a Objetos e Padrões de Projeto :hourglass_flowing_sand:
+##### Bloco 35: Programação Orientada a Objetos e Padrões de Projeto :white_check_mark:
 
-- [ ] 36-1: _Introdução à programação Orientada a Objetos_
-- [ ] 36-2: _Herança, Composição e Interfaces_
-- [ ] 36-3: _Padrões de projeto_
-- [ ] 36-4: _Projeto - Relatório de Estoque_
+- [x] 36-1: _Introdução à programação Orientada a Objetos_
+- [x] 36-2: _Herança, Composição e Interfaces_
+- [x] 36-3: _Padrões de projeto_
+- [x] 36-4: _Projeto - Relatório de Estoque_
 
-##### Bloco 36: Algoritmos e Estrutura de Dados :hourglass_flowing_sand:
+##### Bloco 36: Algoritmos e Estrutura de Dados :white_check_mark:
 
-- [ ] 37-1: _Estrutura de Dados I - Arrays_
-- [ ] 37-2: _Estrutura de Dados I - Complexidade de Algoritmos_
-- [ ] 37-3: _Recursividade e estratégias para solução de problemas_
-- [ ] 37-4: _Algoritmos de ordenação e busca_
-- [ ] 37-5: _Projeto - Algoritmos_
+- [x] 37-1: _Estrutura de Dados I - Arrays_
+- [x] 37-2: _Estrutura de Dados I - Complexidade de Algoritmos_
+- [x] 37-3: _Recursividade e estratégias para solução de problemas_
+- [x] 37-4: _Algoritmos de ordenação e busca_
+- [x] 37-5: _Projeto - Algoritmos_
 
 ##### Bloco 37: Estrutura de Dados: Hash e Set :hourglass_flowing_sand:
 
